@@ -13,3 +13,13 @@ ___
 * Customizable knowledge base (KB)
 
 ___
+
+AirportChatbot/
+├── Dataset/                 # Contains training data and flight info
+├── Deploy/                  # Deployment configuration and setup
+├── Frontend/                # Web UI for user interaction
+├── ImportToCSV.ipynb        # Notebook to process and format data
+├── SETUP.json               # CLU model setup file
+├── _cleaned_flights.csv     # Flight schedule data
+├── SystemArchitectureDiagram.png  # Project architecture diagram
+└── README.md
